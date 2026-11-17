@@ -1,0 +1,5 @@
+.env/
+dist/
+__pycache__/
+releases.zip
+LostLotus.spec
